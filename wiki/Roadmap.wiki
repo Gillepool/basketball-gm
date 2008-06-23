@@ -1,0 +1,22 @@
+#summary The current development plan
+#labels roadmap
+
+= Overall =
+
+Right now my goal is to get the game in a basic playable form for an 0.1 release, because I think that will do a lot to raise interest in the project.  But that is still a ways off.
+
+After that, focus will shift to:
+* Making game simulations more realistic
+* Improving performance
+* Porting to Windows
+* Polishing the UI
+
+= Major Remaining Tasks For 0.1 =
+
+* Finish New/Open/Save/Save As code
+* Support multiple seasons
+* Contracts
+* Trades
+* Free agents
+* Add more players and teams to the database
+* Probably more... (you can see it is a long ways off)
